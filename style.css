@@ -57,3 +57,26 @@ main {
   padding: 1rem;
   margin-right: 1rem;
 }
+.second-part {
+  width: 35vw;
+  height: 20vh;
+  margin: 6rem 0 0;
+  padding: 2rem 2rem;
+  background-color: hsl(228, 56%, 26%);
+  border: 5px solid hsl(228, 56%, 26%);
+  border-radius: 1rem;
+}
+.second-part .main-paragraph {
+  color: hsl(243, 100%, 93%);
+  font-size: 0.8rem;
+  margin: 0 0 0.8rem;
+}
+.second-part .range {
+  width: 100%;
+}
+.second-part .space {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: hsl(243, 100%, 93%);
+}
