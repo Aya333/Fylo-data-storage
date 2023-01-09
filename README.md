@@ -63,4 +63,4 @@ Main thing I learned and practiced was the clip path property
 
 ## Author
 
-- Frontend Mentor - [@Aya333](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Aya333](https://www.frontendmentor.io/profile/Aya333)
